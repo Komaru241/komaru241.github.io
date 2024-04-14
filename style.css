@@ -1,0 +1,127 @@
+body{
+  background-image:url("bakground.jpg");
+  background-repeat:no-repeat;
+  background-size: cover;}
+  header{
+    padding: 10px 5%;
+    background-color:white;
+  }
+header>*{
+    display: inline-block;
+    width:450px;
+  }
+article{
+  color:white;
+  
+}
+  .corg{
+  width:10%;}
+header a{
+  text-decoration: none;
+  color: black;
+  margin:0 10px;}
+.banner{
+padding: 20% 5%;
+color:#C4A55F;
+font-size: 45px;}
+.banner>p{
+  color:whitesmoke;
+  font-size: 30px;
+}
+
+.corgi{
+padding: 10px 5%;
+text-align: center;
+background-color:white;
+border-radius: 30px;
+}
+.rob>*{
+display: inline-block;
+width:450px;
+font-size:50px;
+vertical-align: middle;
+color: black;
+}
+.bbor{
+  height: 250px;
+}
+.rob>p,p{
+  color:black;
+  font-size: 22px;
+}
+
+main{
+  width: 1500px;;
+  
+  margin: auto;
+}
+nav{
+  font-size: 20px;
+}
+.cveta{
+  padding: 10px 5%;
+  text-align: center;
+  background-color:white;
+  border-radius: 30px;
+  }
+.bobr>p,p{
+    color:black;
+    font-size: 22px;
+}
+.bobr>*{
+  display: inline-block;
+  width:450px;
+  font-size:50px;
+  vertical-align: middle;
+  color: black;
+  }
+  .sobaka{
+    padding: 10px 5%;
+    text-align: center;
+    background-color:white;
+    border-radius: 30px;
+    }
+  .korm>p,p{
+      color:black;
+      font-size: 22px;
+  }
+  .korm>*{
+    display: inline-block;
+    width:450px;
+    font-size:50px;
+    vertical-align: middle;
+    color: black;
+    }
+    footer{
+      background-color:orange;
+      padding:10px 0;
+      text-align: center;
+      color:white;
+      border-radius: 30px;
+
+  }
+  .video{
+    padding: 10px 5%;
+    text-align: center;
+    background-color:white;
+    border-radius: 30px;
+    }
+  .vovo>p,p{
+      color:black;
+      font-size: 22px;
+  }
+  .vovo>*{
+    display: inline-block;
+    width:600px;
+    font-size:50px;
+    vertical-align: middle;
+    color: black;
+    }
+    .vovi{
+      height: 200px;
+    }
+.vovik{
+  height: 50px;
+}
+
+
